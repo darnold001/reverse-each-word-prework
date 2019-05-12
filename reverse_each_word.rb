@@ -6,4 +6,5 @@ def reverse_each_word(text)
     word.reverse
   new_array >> word
 end
+new_array
 end
