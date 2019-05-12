@@ -7,5 +7,5 @@ def reverse_each_word(text)
   new_array.push (reversed)
   new_string = new_array.join (" ")
 end
-new_string
+ puts new_string
 end
