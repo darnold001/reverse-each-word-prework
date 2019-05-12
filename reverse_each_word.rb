@@ -7,6 +7,6 @@ def reverse_each_word(text)
   new_array.push (reversed)
   string1 = new_array.join
 end
- final = new_array.join
+ final = new_array.to_s
  print "#{final}"
 end
