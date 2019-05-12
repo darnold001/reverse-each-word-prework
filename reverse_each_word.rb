@@ -5,7 +5,6 @@ def reverse_each_word(text)
   array.each do |word|
   reversed =  word.reverse
   new_array.push (reversed)
-  new_string = new_array.join (" ")
 end
- puts new_string
+new_array
 end
