@@ -8,5 +8,4 @@ def reverse_each_word(text)
   string1 = new_array.join
 end
 new_array
-puts "#{string1}"
 end
